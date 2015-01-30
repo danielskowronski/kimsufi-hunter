@@ -17,4 +17,5 @@ Meant to be very simple - just run and wait for email ;)
 I recommend using dedicated gmail account for SMTP (it's portable; using own primary account would affect security).
 
 ### What is all about?
-https://www.kimsufi.com/en/
++ Kimsufi homepage - https://www.kimsufi.com/en/
++ Something more (in Polish) on my blog - http://blog.dsinf.net/2015/01/kimsufi-hunter/
